@@ -1,6 +1,7 @@
-# Implementation Plan: Hardware-Secured Stellar Crypto Wallet in Flutter
+# Implementation Plan: Hardware-Secured  Wallet (Flutter)
 
-This document outlines the step-by-step technical architecture, setup, and implementation plan for building a hardware-secured Stellar (XLM) crypto wallet in Flutter. The plan uses Android's Keystore system (`EncryptedSharedPreferences`), system authentication via `local_auth` (PIN, Pattern, Password, or Biometrics), and zero-lifetime key handling in Dart memory.
+This document outlines the step-by-step technical architecture, setup, and implementation plan for building a hardware-secured Stellar (XLM) crypto wallet in Flutter. 
+The plan uses Android's Keystore system (`EncryptedSharedPreferences`), system authentication via `local_auth` (PIN, Pattern, Password, or Biometrics), and zero-lifetime key handling in Dart memory.
 
 ---
 
